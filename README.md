@@ -16,20 +16,20 @@
 <h4> languages and tools: <h4>
 <div style="width:100%">
   <a href="https://github.com/Yhhhhhhh">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JAVASCRIPT"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TYPESCRIPT"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VUE"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JAVASCRIPT"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="TYPESCRIPT"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="VUE"></code>
   <!--   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code> -->
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NODEJS"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" alt="LESS"></code>
-    <code><img height="30" src="https://avatars.githubusercontent.com/u/28507035" alt="NESTJS"></code>
-    <code><img height="30" src="https://github.com/dcloudio/hello-uniapp/blob/master/static/uni.png" alt="UNIAPP"></code>
-    <code><img height="30" src="https://avatars.githubusercontent.com/u/68583457" alt="ELEMENTUI"></code>
-    <code><img height="30" src="https://avatars.githubusercontent.com/u/12101536" alt="ANRDESIGN"></code>
-    <code><img height="30" src="https://avatars.githubusercontent.com/u/25822731" alt="PRETTIER"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="NODEJS"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" title="LESS"></code>
+    <code><img height="30" src="https://avatars.githubusercontent.com/u/28507035" title="NESTJS"></code>
+    <code><img height="30" src="https://github.com/dcloudio/hello-uniapp/blob/master/static/uni.png" title="UNIAPP"></code>
+    <code><img height="30" src="https://avatars.githubusercontent.com/u/68583457" title="ELEMENTUI"></code>
+    <code><img height="30" src="https://avatars.githubusercontent.com/u/12101536" title="ANRDESIGN"></code>
+    <code><img height="30" src="https://avatars.githubusercontent.com/u/25822731" title="PRETTIER"></code>
   </a>
 <div>
 
