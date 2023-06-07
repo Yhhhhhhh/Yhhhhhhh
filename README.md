@@ -3,19 +3,19 @@
   Hi there! I'm YuHua~ 
 </h3>
 
-🐭I am a front-end development engineer
-🌱 I’m currently learning Nestjs and MySQL
+<div>
+  <a href="https://github.com/Yhhhhhhh">
+    <img align="right" src="https://count.getloli.com/get/@:yuhua?theme=rule34" alt="Yhhhhhhh" />
+  </a>
+</div>
 
+- 🐭 I am a front-end development engineer.
+- 🌱 I am currently learning Nestjs and MySQL.
+- 🌏 I am working in Shanghai.
 
-<a href="https://github.com/Yhhhhhhh">
-  <div>
-    <img align="left" src="https://count.getloli.com/get/@:yuhua?theme=rule34" alt="Yhhhhhhh" />
-  </div>
-</a>
-
-**languages and tools:**  
-<a href="https://github.com/Yhhhhhhh">
-  <div style="width:100%">
+<h4> languages and tools: <h4>
+<div style="width:100%">
+  <a href="https://github.com/Yhhhhhhh">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,5 +29,10 @@
     <code><img height="30" src="https://github.com/dcloudio/hello-uniapp/blob/master/static/uni.png"></code>
     <code><img height="30" src="https://avatars.githubusercontent.com/u/68583457"></code>
     <code><img height="30" src="https://avatars.githubusercontent.com/u/12101536"></code>
-  <div>
+  </a>
+<div>
+
+<h4> contact me: <h4>
+<a href="https://github.com/Yhhhhhhh">
+  <img width="250" src="https://github.com/Yhhhhhhh/nest-test/blob/dev/src/static/wechat.jpg" alt="Yhhhhhhh" />
 </a>
