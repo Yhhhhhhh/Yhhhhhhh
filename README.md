@@ -3,6 +3,10 @@
   Hi there! I'm YuHua~ 
 </h3>
 
+🐭I am a front-end development engineer
+🌱 I’m currently learning Nestjs and MySQL
+
+
 <a href="https://github.com/Yhhhhhhh">
   <div>
     <img align="left" src="https://count.getloli.com/get/@:yuhua?theme=rule34" alt="Yhhhhhhh" />
@@ -23,11 +27,7 @@
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
     <code><img height="30" src="https://avatars.githubusercontent.com/u/28507035"></code>
     <code><img height="30" src="https://github.com/dcloudio/hello-uniapp/blob/master/static/uni.png"></code>
+    <code><img height="30" src="https://avatars.githubusercontent.com/u/68583457"></code>
+    <code><img height="30" src="https://avatars.githubusercontent.com/u/12101536"></code>
   <div>
-</a>
-
-<a href="https://github.com/Yhhhhhhh">
-  <div>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  </div>
 </a>
